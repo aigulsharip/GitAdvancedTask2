@@ -6,5 +6,5 @@ bell peppers
 cucumbers
 cautiflower
 zucchinis
-onions
-pototaes
+onions_changed
+pototaes_changed
