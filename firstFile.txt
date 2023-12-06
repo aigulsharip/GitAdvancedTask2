@@ -1,0 +1,10 @@
+apple
+mango
+grape
+pineapple
+cherry
+banana
+peach
+limon
+dragon fruit
+fig
