@@ -1,7 +1,7 @@
-apple_change1
+apple_step18
 mango
 grape
-pineapple_change2
+pineapple_step18
 cherry
 banana_change3
 peach
