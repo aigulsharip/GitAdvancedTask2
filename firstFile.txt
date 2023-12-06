@@ -3,8 +3,8 @@ mango
 grape
 pineapple_change2
 cherry
-banana
+banana_change3
 peach
-limon
+limon_change4
 dragon fruit
 fig
